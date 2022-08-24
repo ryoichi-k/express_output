@@ -1,4 +1,4 @@
-## test
+## connect DB
 mongoDB接続コード
 ```server.js
     //mongodb接続
